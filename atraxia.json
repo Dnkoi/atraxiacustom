@@ -153,7 +153,7 @@
     },
     
     "background": {
-        "blur": 0.1,
+        "blur": 0.5,
         "url": "https://cdn.discordapp.com/attachments/1208062638093766747/1214476680777826374/flower_outline_4-1.jpg?ex=65f9408c&is=65e6cb8c&hm=b7a98366005c40e04fe44c7f4245d05154fe37468b15ad7f93daf73bee32aa3b&",
         "alpha": 0.7
         },
