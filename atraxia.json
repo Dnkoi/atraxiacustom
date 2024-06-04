@@ -163,11 +163,11 @@
        "icons":{
                 "ic_new_pins":["#e64553"],
                 "StatusStreaming": ["#7e64fb"],
-              "StatusMobileOnline": ["#701d8"],
-              "StatusIdle": ["#ffd401"],
-              "StatusDND": ["#cd9827"],
+              "StatusMobileOnline": ["#701d83"],
+              "StatusIdle": ["#cd9827"],
+              "StatusDND": ["#79144cdd"],
               "StatusOffline": ["#015bd5"],
-              "StatusOnline": ["#701d8"]}
+              "StatusOnline": ["#701d83"]}
     },
         "color": "#6b8e4e"
 }
